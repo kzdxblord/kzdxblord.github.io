@@ -1,9 +1,180 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.9">
   <diagram name="Page-1" id="I6y3WkWSsQ1P2ZdxrYNu">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="BDZEBFtbGN4kBhTSl_yq-4" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="950" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-8" value="Security breach detected" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-9" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="410" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.5" y="240" as="targetPoint" />
+            <mxPoint x="409.5" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" y="320" as="targetPoint" />
+            <mxPoint x="219" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="320" as="targetPoint" />
+            <mxPoint x="570" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-14" value="Send alert signals throughout whole Death Star" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-15" value="Lock all entrances and exits to the Death Star" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-16" value="Initiate complete shutdown of all computers in vicinity of security breach location" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-19" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="460" as="targetPoint" />
+            <mxPoint x="160" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="460" as="targetPoint" />
+            <mxPoint x="280" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-24" value="Send signals to dispatch stormtroopers to patrol and to be on high alert" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" y="410" as="targetPoint" />
+            <mxPoint x="219" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-26" value="Provide elite ranking officers details relating to the security breach (location, time, etc.)" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.81" y="570" as="targetPoint" />
+            <mxPoint x="279.81" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.81" y="570" as="targetPoint" />
+            <mxPoint x="149.81" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-35" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-36" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="620" as="targetPoint" />
+            <mxPoint x="210" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-37" value="Await status update from top ranking officers about security status" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-38" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="830" as="targetPoint" />
+            <mxPoint x="424" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-40" value="[Security breach has been controlled]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="890" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="950" as="targetPoint" />
+            <mxPoint x="425" y="910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-42" value="[Security breach is severe and has not been controlled yet]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="820" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-43" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="870" as="targetPoint" />
+            <mxPoint x="470" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-44" value="Send in Darth Vader (or any other jedi)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-45" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="140" as="targetPoint" />
+            <mxPoint x="670" y="869.55" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="711" y="870" />
+              <mxPoint x="711" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-46" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.13" y="320" as="targetPoint" />
+            <mxPoint x="409.13" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-49" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="620" as="targetPoint" />
+            <mxPoint x="569.57" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-51" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.57" y="440" as="targetPoint" />
+            <mxPoint x="409.57" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-52" value="Enforce maximum security clearance requirements to navigate and access services on Death Star" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-53" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.56;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BDZEBFtbGN4kBhTSl_yq-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="610" as="targetPoint" />
+            <mxPoint x="409.13" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-54" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="410" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BDZEBFtbGN4kBhTSl_yq-55" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BDZEBFtbGN4kBhTSl_yq-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.57" y="700" as="targetPoint" />
+            <mxPoint x="419.57" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
