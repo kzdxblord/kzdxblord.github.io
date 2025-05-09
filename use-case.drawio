@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.1">
   <diagram name="Page-1" id="L8W7u3dgbETmHMiYv3xx">
-    <mxGraphModel dx="1339" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RuIfawrFc-DGeBDDVX_--82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="645" width="1290" height="610" as="geometry" />
+        </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="680" width="540" height="400" as="geometry" />
         </mxCell>
@@ -215,49 +218,241 @@
           <mxGeometry x="620" y="1050" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="680" width="540" height="400" as="geometry" />
+          <mxGeometry x="1320" y="680" width="540" height="400" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="680" width="140" height="400" as="geometry" />
+          <mxGeometry x="1320" y="680" width="140" height="400" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--20" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="1340" y="710" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--21" value="link to dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--22" value="link to archive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="830" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="830" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--23" value="link to new tax form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="880" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="880" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--24" value="link to FAQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="930" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="930" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--25" value="link to contact us" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="980" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="980" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--26" value="logout button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1030" width="100" height="40" as="geometry" />
+          <mxGeometry x="1340" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--27" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="690" width="350" height="60" as="geometry" />
+          <mxGeometry x="1480" y="690" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--28" value="Input fields&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="770" width="350" height="160" as="geometry" />
+          <mxGeometry x="1480" y="770" width="350" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--29" value="Balance sheet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="960" width="90" height="60" as="geometry" />
+          <mxGeometry x="1615" y="960" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--30" value="Save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="980" width="90" height="60" as="geometry" />
+          <mxGeometry x="1480" y="980" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--31" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="980" width="90" height="60" as="geometry" />
+          <mxGeometry x="1740" y="980" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RuIfawrFc-DGeBDDVX_--32" value="Verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1050" width="90" height="20" as="geometry" />
+          <mxGeometry x="1740" y="1050" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--33" value="Sidebar provides links for&amp;nbsp;&lt;div&gt;easy navigation between pages&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="780" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="810" as="sourcePoint" />
+            <mxPoint x="230" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="810" as="sourcePoint" />
+            <mxPoint x="240" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="810" as="sourcePoint" />
+            <mxPoint x="250" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="810" as="sourcePoint" />
+            <mxPoint x="260" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="810" as="sourcePoint" />
+            <mxPoint x="270" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--40" value="&lt;div&gt;&lt;div&gt;Save button to save&amp;nbsp;&lt;/div&gt;&lt;div&gt;all inputted fields&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1145" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--41" value="&lt;div&gt;&lt;div&gt;Submit button finalizes&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;tax form changes. Edits can&amp;nbsp;&lt;/div&gt;&lt;div&gt;no longer be made by user&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1010" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--42" value="Sidebar provides links for&amp;nbsp;&lt;div&gt;easy navigation between pages&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="780" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="810" as="sourcePoint" />
+            <mxPoint x="1340" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="810" as="sourcePoint" />
+            <mxPoint x="1340" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="810" as="sourcePoint" />
+            <mxPoint x="1340" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="810" as="sourcePoint" />
+            <mxPoint x="1340" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="810" as="sourcePoint" />
+            <mxPoint x="1340" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--52" value="User is required to check a&amp;nbsp;&lt;div&gt;checkbox, verifying that they have&amp;nbsp;&lt;/div&gt;&lt;div&gt;double checked all inputted fields&lt;/div&gt;&lt;div&gt;and are ready to submit&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1090" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--53" value="&lt;div&gt;&lt;div&gt;Signature field that&amp;nbsp;&lt;/div&gt;&lt;div&gt;can receive pdfs&lt;/div&gt;&lt;div&gt;used to authenticate&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;tax form for auditing and legal&lt;/div&gt;&lt;div&gt;purposes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1110" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--54" value="A variety of text fields required for&amp;nbsp;&lt;div&gt;a tax form submission (for an individual)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="885" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--55" value="The header of the page (&quot;Individual Tax Form&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="700" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.007;exitY=0.485;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--55" target="RuIfawrFc-DGeBDDVX_--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="900" as="sourcePoint" />
+            <mxPoint x="500" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--54" target="RuIfawrFc-DGeBDDVX_--11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797" y="824" as="sourcePoint" />
+            <mxPoint x="720" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--52" target="RuIfawrFc-DGeBDDVX_--15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="807" y="834" as="sourcePoint" />
+            <mxPoint x="730" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.019;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--41" target="RuIfawrFc-DGeBDDVX_--14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="789" y="1100" as="sourcePoint" />
+            <mxPoint x="720" y="1075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.543;exitY=-0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--53" target="RuIfawrFc-DGeBDDVX_--12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="1110" as="sourcePoint" />
+            <mxPoint x="730" y="1085" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1140" as="sourcePoint" />
+            <mxPoint x="550" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--64" value="Log out button for users&amp;nbsp;&lt;div&gt;to easily and quickly&lt;/div&gt;&lt;div&gt;terminate session&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1050" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RuIfawrFc-DGeBDDVX_--9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1080" as="sourcePoint" />
+            <mxPoint x="180" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--66" value="Log out button for users&amp;nbsp;&lt;div&gt;to easily and quickly&lt;/div&gt;&lt;div&gt;terminate session&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1050" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="1070" as="sourcePoint" />
+            <mxPoint x="1340" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--68" value="&lt;div&gt;&lt;div&gt;Submit button finalizes&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;tax form changes. Edits can&amp;nbsp;&lt;/div&gt;&lt;div&gt;no longer be made by user&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="995" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--69" value="User is required to check a&amp;nbsp;&lt;div&gt;checkbox, verifying that they have&amp;nbsp;&lt;/div&gt;&lt;div&gt;double checked all inputted fields&lt;/div&gt;&lt;div&gt;and are ready to submit&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1075" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--70" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1927" y="819" as="sourcePoint" />
+            <mxPoint x="1830" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--71" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.019;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1909" y="1085" as="sourcePoint" />
+            <mxPoint x="1830" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--72" value="&lt;div&gt;&lt;div&gt;Save button to save&amp;nbsp;&lt;/div&gt;&lt;div&gt;all inputted fields&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1145" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1140" as="sourcePoint" />
+            <mxPoint x="1515" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--74" value="A variety of text fields required for&amp;nbsp;&lt;div&gt;a tax form submission (for a business user)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1855" y="820" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1917" y="759" as="sourcePoint" />
+            <mxPoint x="1830" y="832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--78" value="The header of the page (&quot;Business Tax Form&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="700" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--78" target="RuIfawrFc-DGeBDDVX_--27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1867" y="850" as="sourcePoint" />
+            <mxPoint x="1840" y="842" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--80" value="Business tax form requires&amp;nbsp;&lt;div&gt;a balance sheet for the year, submitted&lt;/div&gt;&lt;div&gt;as a PDF&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1110" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuIfawrFc-DGeBDDVX_--81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RuIfawrFc-DGeBDDVX_--80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1615" y="1120" as="sourcePoint" />
+            <mxPoint x="1650" y="1020" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
